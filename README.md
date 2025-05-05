@@ -40,7 +40,7 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 
 # Shader Installation (Optional) 
 - If you want your minecraft to look pretty and you know your pc can handle it, consider installing shaders.
-![mods](./images/8.PNG)
+![mods](./images/8.png)
   
 - Below are the shaders compatiable with this modlist (DistantHorizons compatible).
 - ![BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)
@@ -58,4 +58,4 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 
 
 # Screenshots 
-![game](./images/11.PNG)
+![game](./images/11.png)

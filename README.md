@@ -1,6 +1,11 @@
 # mc-server-dks
-Welcome to my modded Minecraft server. In this document I will share how to install Minecraft for free and join my server.
+Welcome to my modded Minecraft server. In this document I will share **how to install Minecraft for free and join my server**.
 This guide is a WIP. **Modlist is subject to change!** 
+
+# Screenshots 
+![game](./images/11.png)
+
+![game](./images/14.png)
 
 # Minecraft Installation 
 - First install [Tlauncher](https://tlauncher.org/).
@@ -43,7 +48,7 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 ![mods](./images/8.png)
   
 - Below are the shaders compatiable with this modlist (DistantHorizons compatible).
-- ![BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)
+- [BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)
 - Complimentary
 
 - Download the shader you want and unzip into the shaderpacks directory. Then select the shader from your ingame video settings.
@@ -57,5 +62,3 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 - Disable occulus
 
 
-# Screenshots 
-![game](./images/11.png)

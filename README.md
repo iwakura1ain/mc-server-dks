@@ -25,7 +25,7 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 - Open the mods directory.
 ![mods](./images/4.PNG)
 
-- Now download this [drive link](https://drive.google.com/drive/folders/1E7xYbUFOLAVrdf52SUSszAl6fgLk7asC?usp=drive_link) and paste the contents into the above mentioned mods directory.
+- Now download this [drive link](https://drive.google.com/drive/folders/1QFJnj7Cd702at1hF1xNTAyk-VSUeMZvg?usp=drive_link) and paste the contents into the above mentioned mods directory.
   The mods folder should look something like this.
 ![mods](./images/5.PNG)
 

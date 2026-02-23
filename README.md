@@ -51,7 +51,7 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 ![mods](./images/8.png)
   
 - Download shaderpacks and paste into your minecraft install directory
-- [BSL Shaders](https://drive.google.com/file/d/1EP05kwGbbQLy0yG2QRKXQk5d4vcvv6r-/view?usp=sharing)
+- [Shaderpacks](https://drive.google.com/file/d/1EP05kwGbbQLy0yG2QRKXQk5d4vcvv6r-/view?usp=sharing)
 
 - Your minecraft install directory should look something like this.
 - [Shaders](./images/15.png)

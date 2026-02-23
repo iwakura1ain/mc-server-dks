@@ -50,11 +50,10 @@ Optionally, configure a tlauncher account with your launcher to use custom skins
 - If you want your minecraft to look pretty and you know your pc can handle it, consider installing shaders.
 ![mods](./images/8.png)
   
-- Below are the shaders compatiable with this modlist (DistantHorizons compatible).
+- Download shaderpacks and paste into your minecraft install directory
 - [BSL Shaders](https://www.curseforge.com/minecraft/shaders/bsl-shaders)
-- Complimentary
 
-- Download the shader you want and unzip into the shaderpacks directory. Then select the shader from your ingame video settings.
+- Then select the shader from your ingame video settings. -> note: only shaders with clrwl suffix are compatible 
 ![game](./images/10.PNG)
 
 
